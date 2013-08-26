@@ -1,0 +1,1 @@
+setx LIVE555_DIR %CD%
